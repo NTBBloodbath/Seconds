@@ -1,3 +1,5 @@
+![Seconds](https://socialify.git.ci/NTBBloodbath/Seconds/image?description=1&descriptionEditable=Transform%20seconds%20to%20minutes%2C%20hours%2C%20etc.%20and%20vice%20versa%20quickly%2C%20easily%2C%20and%20understandable%20by%20humans&font=Source%20Code%20Pro&forks=1&issues=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
 ![Python Versions](https://img.shields.io/pypi/pyversions/seconds)
 ![Version](https://img.shields.io/pypi/v/seconds?color=green&label=version)
 [![Downloads](https://pepy.tech/badge/seconds)](https://pepy.tech/project/seconds)
